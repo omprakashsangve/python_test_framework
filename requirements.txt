@@ -1,0 +1,5 @@
+pytest~=8.4.1
+requests~=2.32.4
+selenium~=4.34.2
+configparser~=7.2.0
+openai~=1.97.1
